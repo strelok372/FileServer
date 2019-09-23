@@ -1,0 +1,14 @@
+/home/osoznanie/Документы/webcore/obj/Debug/netcoreapp2.2/webcore.csprojAssemblyReference.cache
+/home/osoznanie/Документы/webcore/obj/Debug/netcoreapp2.2/webcore.csproj.CoreCompileInputs.cache
+/home/osoznanie/Документы/webcore/obj/Debug/netcoreapp2.2/webcore.RazorAssemblyInfo.cache
+/home/osoznanie/Документы/webcore/obj/Debug/netcoreapp2.2/webcore.RazorAssemblyInfo.cs
+/home/osoznanie/Документы/webcore/obj/Debug/netcoreapp2.2/webcore.AssemblyInfoInputs.cache
+/home/osoznanie/Документы/webcore/obj/Debug/netcoreapp2.2/webcore.AssemblyInfo.cs
+/home/osoznanie/Документы/webcore/bin/Debug/netcoreapp2.2/webcore.deps.json
+/home/osoznanie/Документы/webcore/bin/Debug/netcoreapp2.2/webcore.runtimeconfig.json
+/home/osoznanie/Документы/webcore/bin/Debug/netcoreapp2.2/webcore.runtimeconfig.dev.json
+/home/osoznanie/Документы/webcore/bin/Debug/netcoreapp2.2/webcore.dll
+/home/osoznanie/Документы/webcore/bin/Debug/netcoreapp2.2/webcore.pdb
+/home/osoznanie/Документы/webcore/obj/Debug/netcoreapp2.2/webcore.RazorTargetAssemblyInfo.cache
+/home/osoznanie/Документы/webcore/obj/Debug/netcoreapp2.2/webcore.dll
+/home/osoznanie/Документы/webcore/obj/Debug/netcoreapp2.2/webcore.pdb
